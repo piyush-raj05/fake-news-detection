@@ -13,4 +13,4 @@ To avoid spreading of fake news, a machine learning algorithm is put to work. It
 ![Capture](https://user-images.githubusercontent.com/60137554/122565264-e4914f00-d063-11eb-960c-29b399ec50fc.PNG)
 <h2> Major Drawback! </h2>
 The dataset upon which training of the model is done, needs to be updated every minute for accurate results. Either the news detection be done directly from the internet or by another machine Learning algorithm to compile news sources from the web. The attached csv file in this directory is old (not updated since the project is made); 
-<b> hence prediction in today's date would require an updated dataset else we may see the latest news sources as fake too! </b>
+<b> hence prediction in today's date would require an updated dataset else we may see the latest news as fake too! </b>
